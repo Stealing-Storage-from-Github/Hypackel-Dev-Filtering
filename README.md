@@ -19,4 +19,4 @@ Please ensure that your game has the following:
 
 If you are interested in the status of your uploads, go to issues, find your game, and see if it is approved or rejected.
 
-There is no need to check, because we will send you and email if your game is approved. (Reason why you need to include the file info.txt)
+There is no need to check, because we will send you and email if your game is approved. (Reason why you need to include the file `info.txt`)
