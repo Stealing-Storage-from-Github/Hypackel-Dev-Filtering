@@ -5,7 +5,7 @@ Anyone's uploaded projects will go here, and will stay here until approved (for 
 If you want to submit a game, go to: hypackel-dev-link-here
 
 Please ensure that your game has the following:
-  - A txt file named 'info.txt' that contains:
+  - A txt file named `info.txt` that contains:
       - Your EMAIL
       - PHONE NUMBER
       - Discord Username (optional)
@@ -18,4 +18,5 @@ Please ensure that your game has the following:
       - Your upload being rejected
 
 If you are interested in the status of your uploads, go to issues, find your game, and see if it is approved or rejected.
-There is no need to check, because we will send you and email if your game is approved. (Reason why you need to include your
+
+There is no need to check, because we will send you and email if your game is approved. (Reason why you need to include the file info.txt)
